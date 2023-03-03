@@ -1,5 +1,6 @@
 class Solution {
 public:
+//2
     int subtractProductAndSum(int n) {
         //int ans = 0 ;
         int sum =0 ;
