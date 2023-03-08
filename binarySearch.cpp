@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//3
+//4
 int binarySearch(int arr[],int size ,int key){
     int strat = 0;
     int end = size-1;
